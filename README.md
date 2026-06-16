@@ -2,11 +2,11 @@
 
 > 요리 경험이 없는 자취생이 **레시피 진행 + 정확한 계량 + 타이머 알림**을 한 번에 놓치지 않도록 돕는 4-MCU 임베디드 시스템
 
-[![Platform](https://img.shields.io/badge/Platform-Arduino_Uno_x4-00979D?logo=arduino&logoColor=white)]()
-[![Language](https://img.shields.io/badge/Language-C++-blue?logo=cplusplus&logoColor=white)]()
-[![Protocol](https://img.shields.io/badge/Protocol-SPI%20%7C%20I2C%20%7C%20UART-orange)]()
-[![Course](https://img.shields.io/badge/2025-임베디드시스템_기말프로젝트-success)]()
-[![Sensor](https://img.shields.io/badge/Sensor-HX711_Load_Cell-FF6B6B)]()
+[![Platform](https://img.shields.io/badge/Platform-Arduino_Uno_x4-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/en/Guide/ArduinoUno)
+[![Language](https://img.shields.io/badge/Language-C++-blue?logo=cplusplus&logoColor=white)](https://docs.arduino.cc/learn/programming/arduino-and-cpp/)
+[![Protocol](https://img.shields.io/badge/Protocol-SPI%20%7C%20I2C%20%7C%20UART-orange)](#-architecture--시스템-구조)
+[![Course](https://img.shields.io/badge/2025-임베디드시스템_기말프로젝트-success)](#-team--역할)
+[![Sensor](https://img.shields.io/badge/Sensor-HX711_Load_Cell-FF6B6B)](https://github.com/bogde/HX711)
 
 ** 역할 (김상연):** 무게 센서 처리(SPI Slave) · LCD UI/메뉴(SPI Master) · I2C/SPI 통신 · 버튼 네비게이션
 
