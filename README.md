@@ -6,6 +6,7 @@
 [![Language](https://img.shields.io/badge/Language-C++-blue?logo=cplusplus&logoColor=white)]()
 [![Protocol](https://img.shields.io/badge/Protocol-SPI%20%7C%20I2C%20%7C%20UART-orange)]()
 [![Course](https://img.shields.io/badge/2025-임베디드시스템_기말프로젝트-success)]()
+[![Sensor](https://img.shields.io/badge/Sensor-HX711_Load_Cell-FF6B6B)]()
 
 ** 역할 (김상연):** 무게 센서 처리(SPI Slave) · LCD UI/메뉴(SPI Master) · I2C/SPI 통신 · 버튼 네비게이션
 
