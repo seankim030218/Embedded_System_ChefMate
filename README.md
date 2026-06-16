@@ -7,9 +7,9 @@
 [![Protocol](https://img.shields.io/badge/Protocol-SPI%20%7C%20I2C%20%7C%20UART-orange)]()
 [![Course](https://img.shields.io/badge/2025-임베디드시스템_기말프로젝트-success)]()
 
-**🙋 역할 (김상연):** 무게 센서 처리(SPI Slave) · LCD UI/메뉴(SPI Master) · I2C/SPI 통신 · 버튼 네비게이션
+** 역할 (김상연):** 무게 센서 처리(SPI Slave) · LCD UI/메뉴(SPI Master) · I2C/SPI 통신 · 버튼 네비게이션
 
-**✅ 핵심 기능 4개:** 📏 0.1g 실시간 계량 · 📺 LCD 단계별 레시피 안내 · ⏱️ 자동 타이머+알람 · 🚨 기울기 감지 알림
+** 핵심 기능 4개:**  0.1g 실시간 계량 ·  LCD 단계별 레시피 안내 ·  자동 타이머+알람 ·  기울기 감지 알림
 
 **🛠️ Stack:** Arduino Uno x4 · HX711 · SPI / I2C / UART · LiquidCrystal_I2C · C++
 
